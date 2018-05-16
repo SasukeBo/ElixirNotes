@@ -1,3 +1,3 @@
 # study.
-* This si a repository for my learning Elixir notes.
+* These are my Elixir learning notes.
 * Thanks for review.
